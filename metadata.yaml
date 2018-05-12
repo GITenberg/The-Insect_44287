@@ -23,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Michelet
     - http://en.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44287#The-Insect
 gutenberg_issued: '2013-11-26'
 gutenberg_type: Text
 identifiers:
